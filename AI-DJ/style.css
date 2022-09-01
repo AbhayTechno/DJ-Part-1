@@ -1,0 +1,49 @@
+.heading {
+
+font-size: 25px;
+width:100%;
+margin: 0px;
+}
+
+.note{
+
+    font-size: 20px;
+    color:rgb(188, 250, 17);
+}
+
+body{
+
+    background-size: cover;
+}
+
+.div_speed{
+
+    float: left;
+}
+
+.disk_speed_img{
+
+    width: 200px;
+    border-radius: 101px;
+}
+
+#speed, #volume{
+
+    font-size: 25px;
+    margin: 15px;
+}
+
+
+
+.div_volume{
+
+    float: right;
+}
+
+.disk_volume_img{
+
+    width: 200px;
+    border-radius: 101px;
+}
+
+
